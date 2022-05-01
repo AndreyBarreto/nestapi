@@ -35,6 +35,13 @@ $ npm install
 ## Running the app
 
 ```bash
+
+# development database
+$ docker compose up dev-db
+
+# run migrations
+$ npx prisma migrate dev
+
 # development
 $ npm run start
 
