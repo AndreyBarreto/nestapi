@@ -34,6 +34,8 @@ $ npm install
 
 ## Running the app
 
+create a .env with DATABASE_URL name
+
 ```bash
 
 # development database
